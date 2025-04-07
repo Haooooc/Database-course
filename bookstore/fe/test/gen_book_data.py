@@ -3,6 +3,7 @@ import random
 from fe import conf
 from fe.access import book
 from fe.access.new_seller import register_new_seller
+from datetime import datetime
 
 
 class GenBook:
