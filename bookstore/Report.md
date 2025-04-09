@@ -563,7 +563,8 @@ def __init__(self, large: bool = False):
 
 #### 5.2  git 
 
-以下是本次实验项目的github仓库链接：[Haooooc/Database-course (github.com)](https://github.com/Haooooc/Database-course)
+以下是本次实验项目的github仓库链接:
+https://github.com/Haooooc/Database-course
 
 git提交记录：
 ![alt text](git.png)
