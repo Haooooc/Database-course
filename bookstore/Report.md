@@ -565,5 +565,5 @@ def __init__(self, large: bool = False):
 
 以下是本次实验项目的github仓库链接：[Haooooc/Database-course (github.com)](https://github.com/Haooooc/Database-course)
 
-git上传记录：
+git提交记录：
 ![alt text](git.png)
